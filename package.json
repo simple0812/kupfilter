@@ -1,6 +1,6 @@
 {
   "name": "kupfilter",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "kupfilter",
   "main": "index.js",
   "dependencies": {
@@ -10,11 +10,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": {
-    "name": "simple0812"
-  },
+  "author": "simple0812",
   "license": "ISC",
-  "readme": "ERROR: No README data found!",
-  "_id": "kupfilter@0.0.3",
-  "_from": "kupfilter@"
+  "_from": "kupfilter@",
+  "devDependencies": {
+    "coffee-script": "~1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simple0812/kupfilter.git"
+  },
+  "keywords": [
+    "express",
+    "extend",
+    "coffeekup"
+  ],
+  "bugs": {
+    "url": "https://github.com/simple0812/kupfilter/issues"
+  },
+  "homepage": "https://github.com/simple0812/kupfilter"
 }
